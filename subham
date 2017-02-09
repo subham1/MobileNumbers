@@ -1,12 +1,12 @@
-test cases/test case3.txt:8960620584
-test cases/test case3.txt:9990020287
-test cases/test case3.txt:+918960620584
-test cases/test case3.txt:+919990020547
-test cases/test case3.txt:+91- 7051425451
-test cases/test case3.txt:+91 - 7051425451
-test cases/test case3.txt:+91 -7051425451
-test cases/test case2.txt:7892376543
-test cases/test case1.txt:8960620584
-test cases/test case1.txt:+918960620584
-test cases/test case1.txt:919990020547
-test cases/test case1.txt:7051425451
+8960620584
+9990020287
++918960620584
++919990020547
++91- 7051425451
++91 - 7051425451
++91 -7051425451
+7892376543
+8960620584
++918960620584
+919990020547
+7051425451
